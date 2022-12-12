@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="dodge_game.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:dodge_game"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="myGrid">
+        <TextBlock x:Name="score_txtBlock" Canvas.Left="518" TextWrapping="Wrap" Text="score :" Canvas.Top="39" Height="63" Width="240" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" SelectionChanged="score_txtBlock_SelectionChanged" Margin="508,55,0,0"/>
+        <Button x:Name="start_game" Content=" start game" Canvas.Left="570" Canvas.Top="487" FontWeight="Bold" Width="140" Height="43" VerticalAlignment="Top" Click="start_game_Click" Background="#FFFFFD00" HorizontalAlignment="Center" Margin="0,505,0,0"/>
+        <CommandBar x:Name="game_options" Margin="-24,10,1100,0">
+            <AppBarButton x:Name="pause_game" Icon="Pause" Label="pause" Click="pause_game_Click" Content="pause"/>
+            <AppBarButton x:Name="restart_game" Icon="Refresh" Label="restart" Click="restart_game_Click" Content="restart"/>
+        </CommandBar>
+        <Canvas x:Name="playground" Margin="0,-10,0,10">
+
+            <Button x:Name="resume_button" Content="resume" Canvas.Top="63" Width="69" Height="45" FontWeight="Bold" FontStyle="Italic" Background="#337D7979" BorderBrush="#FF696767" Click="resume_button_Click"/>
+        </Canvas>
+    </Grid>
+</Page>

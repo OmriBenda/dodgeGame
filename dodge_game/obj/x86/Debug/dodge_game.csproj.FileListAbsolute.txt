@@ -1,0 +1,90 @@
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\dodge_game.csproj.AssemblyReference.cache
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\App.g.i.cs
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\App.g.cs
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\MainPage.g.cs
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\App.xaml
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\MainPage.xaml
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\App.xbf
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\MainPage.xbf
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\App.xbf
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\MainPage.xbf
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\dodge_game.xr.xml
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\dodge_game.exe
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\dodge_game.pdb
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\resources.pri
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\AppxManifest.xml
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\Core\dodge_game.exe
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\dodge_game.build.appxrecipe
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\System.Runtime.dll
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\dodge_game.csproj.CoreCompileInputs.cache
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\dodge_game.csproj.CopyComplete
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\dodge_game.exe
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\dodge_game.pdb
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\priconfig.xml
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\resources.resfiles
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\pri.resfiles
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\qualifiers.txt
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\benda\OneDrive\שולחן העבודה\לוחמים להייטק\c #\שי תבור מבוא\תרגילי הגשה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424707200000000.json
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\App.xbf
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\MainPage.xbf
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\dodge_game.xr.xml
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\dodge_game.exe
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\dodge_game.pdb
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\resources.pri
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\AppxManifest.xml
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\Core\dodge_game.exe
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\dodge_game.build.appxrecipe
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\System.Runtime.dll
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\dodge_game.csproj.AssemblyReference.cache
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\App.g.i.cs
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\App.g.cs
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\MainPage.g.cs
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\App.xaml
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\MainPage.xaml
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\App.xbf
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\MainPage.xbf
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\dodge_game.csproj.CoreCompileInputs.cache
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\dodge_game.csproj.CopyComplete
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\dodge_game.exe
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\dodge_game.pdb
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\priconfig.xml
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\resources.resfiles
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\pri.resfiles
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\qualifiers.txt
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\benda\OneDrive\שולחן העבודה\dodge_project\dodge_game\dodge_game\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424707200000000.json
